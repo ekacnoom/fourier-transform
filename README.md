@@ -26,8 +26,8 @@ pip install numpy matplotlib scipy PySimpleGUI
 Download
 Clone the repository to your local machine:
 
-git clone https://github.com/yourusername/signal-processing-toolkit.git
-cd signal-processing-toolkit
+git clone git@github.com:ekacnoom/fourier-transform.git
+cd fourier-transform
 
 Usage
 To run the script, navigate to the script directory and run:
